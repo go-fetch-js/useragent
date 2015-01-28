@@ -1,0 +1,31 @@
+{
+  "name": "go-fetch-useragent",
+  "description": "Add a `User-Agent` header to every request.",
+  "keywords": [
+    "useragent",
+    "agent",
+    "header",
+    "http",
+    "https",
+    "client",
+    "request",
+    "fetch"
+  ],
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:go-fetch-js/useragent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/go-fetch-js/useragent/issues"
+  },
+  "devDependencies": {
+    "go-fetch": "^1.2.0"
+  },
+  "peerDependencies": {
+    "go-fetch": "^1.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
