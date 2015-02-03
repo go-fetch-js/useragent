@@ -11,7 +11,7 @@
     "request",
     "fetch"
   ],
-  "version": "0.1.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:go-fetch-js/useragent.git"
@@ -20,10 +20,10 @@
     "url": "https://github.com/go-fetch-js/useragent/issues"
   },
   "devDependencies": {
-    "go-fetch": "^1.2.0"
+    "go-fetch": "^2.0.0"
   },
   "peerDependencies": {
-    "go-fetch": "^1.2.0"
+    "go-fetch": "^2.0.0"
   },
   "scripts": {
     "test": "mocha"
